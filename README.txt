@@ -1,7 +1,6 @@
 SPRING BOOT, SPRING SECURITY AND THYMELEAF
 ==========================================
 
-
 SQL Scripts
 ===========
 These are the same SQL scripts used in the course.
